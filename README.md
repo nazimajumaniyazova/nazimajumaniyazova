@@ -1,4 +1,5 @@
-<img align='right' src='https://raw.githubusercontent.com/nazimajumaniyazova/nazimajumaniyazova/main/gif.gif' width='200"'>
+<img src='https://raw.githubusercontent.com/nazimajumaniyazova/nazimajumaniyazova/main/gif.gif' width='200"'>
+
 ## Hi, I'm Nazima
 
 
