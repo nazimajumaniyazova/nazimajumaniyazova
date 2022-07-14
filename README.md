@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -22,17 +20,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</div>  
 
 <br/>  
 
