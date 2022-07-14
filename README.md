@@ -1,7 +1,7 @@
 <img src='https://raw.githubusercontent.com/nazimajumaniyazova/nazimajumaniyazova/main/gif.gif' width='200"'> 
 
 ## Hi, I'm Nazima
-
+I'm coding enthusiast. Former math teacher. And now Front-end developer. 
 <br/>  
 
 
