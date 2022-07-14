@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, I'm Nazima
+<img align='right' src='[https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif](https://raw.githubusercontent.com/nazimajumaniyazova/nazimajumaniyazova/main/gif.gif)' width='200"'>
+
+<br/>  
+
 
 ## My Skill Set  
 
