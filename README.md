@@ -25,4 +25,8 @@ I'm coding enthusiast. Former math teacher. And now Front-end developer.
 </div>  
 
 <br/>  
+## My Codewars Account
+
+![image](https://user-images.githubusercontent.com/85680325/198831991-76312dd7-a539-4aeb-bffd-3dd174d9d717.png)
+
 
