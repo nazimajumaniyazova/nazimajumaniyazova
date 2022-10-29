@@ -29,6 +29,6 @@ I'm coding enthusiast. Former math teacher. And now Front-end developer.
 
 ## My Codewars Account
 
-![image](https://user-images.githubusercontent.com/85680325/198831991-76312dd7-a539-4aeb-bffd-3dd174d9d717.png)
+![Codewars](https://github.r2v.ch/codewars?user=andreasvogt89&stroke=%23BB432C)
 
 
