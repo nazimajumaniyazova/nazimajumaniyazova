@@ -29,6 +29,6 @@ I'm coding enthusiast. Former math teacher. And now Front-end developer.
 
 ## My Codewars Account
 
-![Codewars](https://github.r2v.ch/codewars?user=rsschool_4c14728d13effbf8/&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=nazima.jm/&stroke=%23BB432C)
 
 
